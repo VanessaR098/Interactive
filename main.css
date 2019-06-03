@@ -1,0 +1,21 @@
+@import 'https://fonts.googleapis.com/css?family=Quicksand';
+
+body {
+ font-family: 'Quicksand', Helvetica, Arial, sans-serif;
+  text-transform: uppercase;
+  font-size: 0.8em;
+  color: whitesmoke;
+  background-image: url(https://media.giphy.com/media/I37Yia4fjd5Be/giphy.gif);
+}
+
+p {
+  display: block;
+  width: 100%;
+  text-align: center;
+  font-size: 1.5em;
+  position: absolute;
+  margin-top: 1em;
+  margin-left: 3em;
+  color: black;
+  text-shadow: 1px 1px 2px black, 0 0 1em blue, 0 0 0.2em blue;
+}
